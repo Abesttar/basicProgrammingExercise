@@ -9,3 +9,7 @@ Study Program  : Informatics Engineering
 NAME           : Rizky Maulana
 NIM            : 20230040035
 Study Program  : Informatic Engineering
+
+NAME           : Ibrahim Gustav Amany
+NIM            : 20230040077
+Study Program  : Informatics Engineering
