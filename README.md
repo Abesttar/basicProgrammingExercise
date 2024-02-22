@@ -13,3 +13,7 @@ Study Program  : Informatic Engineering
 NAME           : Ibrahim Gustav Amany
 NIM            : 20230040077
 Study Program  : Informatics Engineering
+
+NAME           : Muhammad Rigi Yuda Syahrial
+NIM            : 20230040116
+Study Program  : Informatics Engineering
